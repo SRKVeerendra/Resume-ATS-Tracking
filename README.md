@@ -75,10 +75,7 @@
 
    Create a `.env` file in the project root directory and add the following variables:
    ```bash
-   EMAIL_ADDRESS=your-email@example.com
-   EMAIL_PASSWORD=your-email-password
-   GOOGLE_API_KEY=your-google-api-key
-   ```
+   GooGle_API_KEy = "enter gemini Key"
 
 5. **Run the Application:**
 
